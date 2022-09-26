@@ -3,7 +3,8 @@ Number 1 Point
 Number 2 Point
 Number 3.3 Point
 Number 4.4 point
-Number 5 point
+Number 5.5 point
 Number 6.6 point
 Number 7.7 point
 Number 8.8 point
+Number 9.6 point
